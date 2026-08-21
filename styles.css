@@ -169,7 +169,7 @@ select {
 }
 
 textarea {
-  min-height: 138px;
+  min-height: 120px;
   resize: vertical;
   padding: 12px;
   line-height: 1.7;
@@ -508,6 +508,7 @@ textarea:focus {
 
   .editor-panel {
     position: static;
+    padding: 18px;
   }
 }
 
